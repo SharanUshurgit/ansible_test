@@ -1,0 +1,2 @@
+[webservers]
+-i /var/lib/jenkins/workspace/DevOps_Project/terraform/$ip
